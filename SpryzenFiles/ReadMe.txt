@@ -1,9 +1,5 @@
 ---
 
-# Bootstrapper Instructions
-
-## Running the Program
-
 1. **Navigate to the Test folder:**
    - Go to the Test folder on your system.
    
@@ -15,7 +11,6 @@
      - Delete or rename the `Spryzen` folder.
      - Launch the bootstrapper again to complete the update process.
 
-## Need Help?
 
 If you encounter any issues or have questions, feel free to reach out!
 

@@ -14,8 +14,8 @@
 
 If you encounter any issues or have questions, feel free to reach out!
 
-- **Discord Username:** estcat123#0
-- **Join our Discord community:** [Invite Link](https://discord.gg/U432mhJq4f)
+- **Discord Username: estcat123#0
+- **Join our Discord community: https://discord.gg/U432mhJq4f
 
 We're here to help and ensure everything runs smoothly.
 

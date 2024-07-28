@@ -1,1 +1,1 @@
-Please navigate to the Test folder and run the program. If the loader indicates it is patched or updated, delete or rename the executor folder, then launch the bootstrapper
+If the loader indicates a patch or update, delete the executor folder and run the bootstrapper.
